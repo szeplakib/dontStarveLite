@@ -3,7 +3,9 @@ dontStarveLite is a sample game, and hobby project, originaly a home project for
 # About
 Don't Starve is the property of Klei Entertainment, this little game is NOT made by Klei, It's only a hobby project. Also all sprites are made by me.
 I hope I have respected the Player Creation Guidlines:
+
 https://support.klei.com/hc/en-us/articles/360029880791-Player-Creation-Guidelines
+
 This software is free and open-source, I don't use it for commercial purposes.
 
 # Dependencies
