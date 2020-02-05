@@ -1,4 +1,4 @@
-# dontStarveLite2020
+# dontStarveLite
 dontStarveLite is a sample game, and hobby project, originaly a home project for School.
 # About
 Don't Starve, is the property of Klei Entertainment, this little game is NOT made by Klei, It's only a hobby project.
