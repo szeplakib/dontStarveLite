@@ -6,7 +6,7 @@ I hope I have respected the Player Creation Guidlines: https://support.klei.com/
 This software is free and open-source, I don't use it for commercial purposes.
 
 # Dependencies
-The whole project is written in Java, the only library used is Javafx, which was part of Java 8. Since I wanted to learn a project management tool, I left Java 8 in favor of Java 11, and managed it's openJFX dependency with Maven.
+The whole project is written in Java, the only library used is JavaFx, which was part of Java 8. Since I wanted to learn a project management tool, I left Java 8 in favor of Java 11, and managed it's openJFX dependency with Maven.
 
 # The game
 
